@@ -21,7 +21,7 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <PackageReference Include="GeeksCoreLibrary" Version="5.3.2506.6" />
+      <PackageReference Include="GeeksCoreLibrary" Version="5.3.2506.7" />
       <PackageReference Include="Jint" Version="4.2.2" />
     </ItemGroup>
 
