@@ -5,9 +5,6 @@
 - **Language(s)**: C#
 - **Framework(s)**: .NET 9.0
 - **Database**: None
-- **Status**: Production
-- **Critical Level**: Medium
-- **Last Updated**: 2025-10-01
 
 ## Purpose & Context
 
