@@ -125,12 +125,6 @@ var seoUrl = jsService.GetValue<string>("seoUrl"); // "hello-world-2024"
 - **Cause**: Type mismatch between JavaScript and .NET
 - **Solution**: Check JavaScript return type matches requested C# type
 
-## Known Issues & Technical Debt
-
-- [ ] **No Unit Tests** - Repository has no test project (high priority)
-- [ ] **No Script Execution Timeout** - Scripts can run indefinitely (security concern)
-- [ ] **Limited Error Context** - Error logs don't include full script content
-
 ---
 
 *This documentation is part of the Wiser Platform knowledge base maintained by Happy Horizon B.V.*
